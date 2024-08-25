@@ -1,0 +1,4 @@
+List in forward order:
+300 200 100 9 
+Reversing the DLL:
+9 100 200 300 
