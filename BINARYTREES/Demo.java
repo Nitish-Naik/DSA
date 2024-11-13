@@ -20,7 +20,7 @@ public class Demo {
         root = new Node(data);
     }
     public static void main(String[] args) {
-        Demo tree = new Demo(1);
+        FixedSize tree = new FixedSize(1);
         tree.root.left = new Node(2);
         tree.root.right = new Node(3);
 
